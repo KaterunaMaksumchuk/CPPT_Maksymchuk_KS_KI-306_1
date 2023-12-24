@@ -1,0 +1,14 @@
+My leaf is 10
+My flower is 7
+My stem is 8
+My stem is 14
+Stem send 6 energy to flower
+My stem is 14
+My leaf is 16
+Leaf send 6 energy to flower
+Flower grows to 84
+Plant size is 114
+My leaf is 16
+My flower is 84
+My stem is 14
+Flower can reproduce

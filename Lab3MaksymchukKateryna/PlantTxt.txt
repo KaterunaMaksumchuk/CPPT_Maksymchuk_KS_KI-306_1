@@ -1,0 +1,24 @@
+Stem send 3 energy to flower
+Leaf send 4 energy to flower
+Stem send 3 energy to flower
+Leaf send 4 energy to flower
+Flower grows to 35
+Muhoboika size is 60
+Stem send 2 energy to flower
+Leaf send 2 energy to flower
+Stem send 2 energy to flower
+Leaf send 2 energy to flower
+Flower grows to 32
+Romashka size is 59
+This is Romashka
+My leaf is 14
+My flower is 32
+My stem is 13
+This is Muhoboika
+My leaf is 11
+My flower is 35
+My stem is 14
+Romashka can't reproduce
+Romashka can dry
+Muhoboika can't reproduce
+Muhoboika can't dry
